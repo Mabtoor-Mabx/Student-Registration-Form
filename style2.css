@@ -1,0 +1,22 @@
+.h1{
+    padding-top: 120px;
+    padding-right: 50px;
+}
+h1{
+
+    color: green;
+}
+.h2{
+padding-left: 500px;
+font-size: 30px;
+}
+h2{
+    padding-left: 400px;
+    color: purple;
+    font-size: 26px;
+}
+.h3{
+    padding-left: 580px;
+    font-size: 30px;
+    font-weight: bold;
+}
